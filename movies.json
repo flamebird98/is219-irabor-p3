@@ -68,5 +68,49 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "The Fault in Our Stars",
+            "iscore": 7.7,
+            "rating": "PG-13",
+            "runtime": 126,
+            "released": [2014, 6, 6],
+            "country": "USA",
+            "posters": ["img/ourstars.jpg", "img/ourstars2.jpg" ],
+            "imdb": "http://www.imdb.com/title/tt2582846",
+            "website": "http://www.johngreenbooks.com/the-fault-in-our-stars",
+            "likes": 1812,
+            "dislikes": 2101,
+            "posterindex": 0
+      },
+      {
+            "title": "Paris Is Burning",
+            "iscore": 8.1,
+            "rating": "R",
+            "runtime": 71,
+            "released": [1991, 8, 11],
+            "country": "USA",
+            "posters": ["img/parisisburning.jpg", "img/parisisburning2.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0100332",
+            "website": "https://www.jennielivingston.com/paris-is-burning",
+            "likes": 547,
+            "dislikes": 32,
+            "posterindex": 0
+      },
+      {
+            "title": "Three Billboards Outside Ebbing, Missouri",
+            "iscore": 8.2,
+            "rating": "R",
+            "runtime": 115,
+            "released": [2018, 5, 3],
+            "country": "USA",
+            "posters": ["img/3billboards.jpg", "img/3billboards2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt5027774",
+            "website": "http://www.foxsearchlight.com/threebillboardsoutsideebbingmissouri/",
+            "likes": 745,
+            "dislikes": 322,
+            "posterindex": 0
       }
+
+
 ]
